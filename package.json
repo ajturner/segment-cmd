@@ -1,0 +1,16 @@
+{
+  "name": "dat-arcgis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "helmsman": "^1.0.3",
+    "terraformer-arcgis-parser": "^1.0.4"
+  }
+}

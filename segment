@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var helmsman = require('helmsman');
+
+var cli = helmsman({
+  prefix: 'segment',
+  localDir: './bin'
+})
+cli.parse();
